@@ -1,0 +1,15 @@
+current directory: /Users/asanokazuki/Desktop/Rails課題7.0630/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/asanokazuki/.rbenv/versions/2.6.6/bin/ruby -I /Users/asanokazuki/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20200630-14079-1wqzk0g.rb extconf.rb
+creating Makefile
+
+current directory: /Users/asanokazuki/Desktop/Rails課題7.0630/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/asanokazuki/Desktop/Rails課題7.0630/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/asanokazuki/Desktop/Rails課題7.0630/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200630-14079-514hd6/bootsnap
